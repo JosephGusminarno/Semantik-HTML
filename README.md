@@ -1,4 +1,4 @@
-# Semantik-HTML
+# Semantic-HTML
 Latihan Praktikum Semantik HTML
 
 ## Identitas
